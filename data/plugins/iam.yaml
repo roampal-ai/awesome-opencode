@@ -1,0 +1,4 @@
+name: IAM
+repo: https://github.com/spoons-and-mirrors/iam
+description: Inter agent messaging
+full_description: Allows for parallel subagents communication with a simple yet effective messaging system. Subagents are aware of each other, can announce their status, broadcast, and read messages asynchronously.
