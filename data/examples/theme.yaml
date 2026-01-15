@@ -9,8 +9,7 @@
 name: Example Dark Theme
 repo: https://github.com/example/opencode-example-theme
 tagline: A beautiful dark theme with vibrant accents
-description: |
-  A dark theme designed for extended coding sessions.
+description: A dark theme designed for extended coding sessions.
   Features high contrast syntax highlighting and
   carefully chosen colors to reduce eye strain.
 
