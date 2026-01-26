@@ -403,6 +403,18 @@
     "tags": []
   },
   {
+    "productId": "opencode-quota",
+    "type": "plugins",
+    "displayName": "Opencode Quota",
+    "repoUrl": "https://github.com/slkiser/opencode-quota",
+    "tagline": "Quota toasts and token tracking",
+    "description": "Track quota and token usage across providers via automatic toasts and slash commands.",
+    "scope": [
+      "global"
+    ],
+    "tags": []
+  },
+  {
     "productId": "opencode-roadmap",
     "type": "plugins",
     "displayName": "Opencode Roadmap",

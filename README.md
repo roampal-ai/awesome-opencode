@@ -296,6 +296,15 @@
 </details>
 
 <details>
+  <summary><b>Opencode Quota</b> <img src="https://badgen.net/github/stars/slkiser/opencode-quota" height="14"/> - <i>Quota toasts and token tracking</i></summary>
+  <blockquote>
+    Track quota and token usage across providers via automatic toasts and slash commands.
+    <br><br>
+    <a href="https://github.com/slkiser/opencode-quota">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Opencode Roadmap</b> <img src="https://badgen.net/github/stars/IgorWarzocha/Opencode-Roadmap" height="14"/> - <i>Strategic planning</i></summary>
   <blockquote>
     Strategic roadmap planning and multi-agent coordination plugin. Provides project-wide planning capabilities.
